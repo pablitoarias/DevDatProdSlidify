@@ -59,6 +59,6 @@ plot(model)
 ## Want to see the action?
 Click this [link](https://pabloarias.shinyapps.io/DevelopingDataProducts/) to go straight to the application
 
-![Application image](fig/app.png)
+![Application image](assets/fig/app.png)
 
 
